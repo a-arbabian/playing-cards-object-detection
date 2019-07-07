@@ -1,0 +1,1 @@
+darknet.exe detector demo data/obj.data yolo-obj.cfg backup\yolo-obj_6400.weights -c 0

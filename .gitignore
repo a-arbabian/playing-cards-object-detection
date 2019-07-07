@@ -1,0 +1,9 @@
+darknet-master/
+data/
+*.pck
+demo/
+Jupyter/
+*.pickle
+*.mp4
+
+bash \ script.txt
