@@ -13,4 +13,4 @@ I plan to continue training, but here are the results of the 6400 iter. weights:
 | 99.86% | 82.92% |  0.99 |
 
 ### Limitations
-* Only works for Bicycle cards. I chose this deck due to its popularity in commercial use.
+* Only tested on Bicycle cards. I chose this deck due to its popularity in commercial use.
